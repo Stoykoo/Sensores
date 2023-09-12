@@ -1,2 +1,3 @@
 # Sensores
-Exposición del sensor 
+# Exposición del sensor Analog Joystick
+
