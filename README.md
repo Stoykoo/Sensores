@@ -8,6 +8,7 @@ Imagen tomada de: Analog Joystick guide with Pinout & Arduino interfacing | Sens
 <div align="justify">
 Un joystick analógico es un dispositivo que permite leer datos analógicos desde un joystick. El análogo es mejor que el digital porque devuelve con precisión la distancia que ha movido el asa del joystick desde la posición central, mientras que el digital solo devuelve True o False para una dirección en particular.
 </div>
+
 **Marco Teórico:**
  
 <div align="justify">
@@ -20,6 +21,7 @@ En la industria de los videojuegos, los joysticks analógicos se han convertido 
 Además del ámbito del entretenimiento, los joysticks analógicos se utilizan en aplicaciones más técnicas, como la navegación de aeronaves, la operación de maquinaria pesada y la simulación de entrenamiento para pilotos y operadores de equipos especializados. En estos casos, la precisión y la confiabilidad del joystick son críticas para garantizar la seguridad y la eficiencia de las operaciones.
 
 </div>
+
 **Ficha Técnica - Joystick Analógico "PrecisionX1":**
 
 Nombre del Producto: Joystick Analógico PrecisionX1.
