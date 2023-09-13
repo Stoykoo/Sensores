@@ -1,5 +1,5 @@
 # <p align="center">Sensonres.</p>
-# <p align="center"> Exposición del sensor Analog Joystick </p>
+# <p align="center">Analog Joystick </p>
 ![](https://www.electronicwings.com/storage/PlatformSection/TopicContent/123/icon/Analog%20Joystick(0).jpg)
 **<p align="center">Objetivo:** </p>
 <div align="justify">
