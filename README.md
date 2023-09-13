@@ -1,4 +1,4 @@
-# Sensores
+# <p align="center">Sensonres.</p>
 # Exposición del sensor Analog Joystick
 ![](https://www.electronicwings.com/storage/PlatformSection/TopicContent/123/icon/Analog%20Joystick(0).jpg)
 **Objetivo:**
