@@ -7,7 +7,7 @@ Imagen tomada de: Analog Joystick guide with Pinout & Arduino interfacing | Sens
 
 <div align="justify">
 Un joystick analógico es un dispositivo de entrada que se utiliza comúnmente en controladores de videojuegos y otras aplicaciones para permitir el control de movimiento en dos direcciones, a menudo en un plano bidimensional. A diferencia de los joysticks digitales, que solo pueden registrar direcciones cardinales (arriba, abajo, izquierda, derecha), los joysticks analógicos pueden detectar y transmitir una amplia gama de valores, lo que permite un control más preciso.
-</div></p>
+</div>
 
   
 **Marco Teórico:**
