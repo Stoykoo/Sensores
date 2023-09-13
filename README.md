@@ -55,3 +55,9 @@ Aplicaciones Comunes: Juegos de simulación, control de drones, emuladores, soft
 Fabricante: TechWave Corporation.
 
 Garantía: 1 año de garantía limitada.
+
+**Referencias:**
+
+- Glosario informático - Definición de términos informáticos. (s. f.). https://www.glosarioit.com/Joystick_anal%C3%B3gico
+
+- Joystick | IDIS. (s. f.). https://proyectoidis.org/joystick/
