@@ -18,19 +18,19 @@ Además del ámbito del entretenimiento, los joysticks analógicos se utilizan e
 </div></p>
 
 **Ficha Técnica - Joystick Analógico "PrecisionX1":** </p>
-Nombre del Producto: Joystick Analógico PrecisionX1
-Tipo de Dispositivo: Dispositivo de entrada
-Dimensiones: 120 mm x 120 mm x 50 mm
-Peso: 150 gramos
-Conexión: USB 2.0
-Compatibilidad: Compatible con PC (Windows 10/8/7), PlayStation 4, y Xbox One
-Rango de Movimiento: ±30 grados en ambos ejes (horizontal y vertical)
-Resolución Analógica: 1024 unidades por grado
-Número de Ejes: 2 (horizontal y vertical)
-Botones Adicionales: 8 botones programables
-Feedback Háptico: Vibración de doble motor para retroalimentación háptica
-Material: Plástico de alta calidad con empuñaduras de goma antideslizante
-Alimentación: Alimentado por USB
-Aplicaciones Comunes: Juegos de simulación, control de drones, emuladores, software de diseño 3D, etc.
-Fabricante: TechWave Corporation
-Garantía: 1 año de garantía limitada
+Nombre del Producto: Joystick Analógico PrecisionX1 </p>
+Tipo de Dispositivo: Dispositivo de entrada </p>
+Dimensiones: 120 mm x 120 mm x 50 mm </p>
+Peso: 150 gramos </p>
+Conexión: USB 2.0 </p>
+Compatibilidad: Compatible con PC (Windows 10/8/7), PlayStation 4, y Xbox One </p>
+Rango de Movimiento: ±30 grados en ambos ejes (horizontal y vertical) </p>
+Resolución Analógica: 1024 unidades por grado </p>
+Número de Ejes: 2 (horizontal y vertical) </p>
+Botones Adicionales: 8 botones programables </p>
+Feedback Háptico: Vibración de doble motor para retroalimentación háptica </p>
+Material: Plástico de alta calidad con empuñaduras de goma antideslizante </p>
+Alimentación: Alimentado por USB </p>
+Aplicaciones Comunes: Juegos de simulación, control de drones, emuladores, software de diseño 3D, etc. </p>
+Fabricante: TechWave Corporation </p>
+Garantía: 1 año de garantía limitada </p>
