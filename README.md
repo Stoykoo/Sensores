@@ -20,7 +20,7 @@ El funcionamiento básico de un joystick analógico se basa en potenciómetros o
 En la industria de los videojuegos, los joysticks analógicos se han convertido en una parte esencial de los controladores, permitiendo a los jugadores una experiencia de juego más inmersiva y precisa. La sensibilidad y la resolución de un joystick analógico son factores clave para proporcionar a los jugadores un control fino sobre sus personajes o vehículos en el juego.
 
 Además del ámbito del entretenimiento, los joysticks analógicos se utilizan en aplicaciones más técnicas, como la navegación de aeronaves, la operación de maquinaria pesada y la simulación de entrenamiento para pilotos y operadores de equipos especializados. En estos casos, la precisión y la confiabilidad del joystick son críticas para garantizar la seguridad y la eficiencia de las operaciones.
-</div></p>
+</div>
 
 **Ficha Técnica - Joystick Analógico "PrecisionX1":**
 Nombre del Producto: Joystick Analógico PrecisionX1 
