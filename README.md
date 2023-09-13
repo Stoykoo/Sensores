@@ -25,11 +25,8 @@ Además del ámbito del entretenimiento, los joysticks analógicos se utilizan e
 **Ficha Técnica - Joystick Analógico "PrecisionX1":**
 
 Nombre del Producto: Joystick Analógico PrecisionX1.
-
 Tipo de Dispositivo: Dispositivo de entrada.
-
 Dimensiones: 120 mm x 120 mm x 50 mm.
-
 Peso: 150 gramos.
 
 Conexión: USB 2.0.
