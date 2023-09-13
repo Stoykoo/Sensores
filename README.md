@@ -1,6 +1,7 @@
 # Sensonres.
 # Analog Joystick
-![Imagen tomada de: Analog Joystick guide with Pinout & Arduino interfacing | Sensors.. (s. f.). © 2018 ElectronicWings. https://www.electronicwings.com/sensors-modules/analog-joystick](https://www.electronicwings.com/storage/PlatformSection/TopicContent/123/icon/Analog%20Joystick(0).jpg)
+![](https://www.electronicwings.com/storage/PlatformSection/TopicContent/123/icon/Analog%20Joystick(0).jpg)
+Imagen tomada de: Analog Joystick guide with Pinout & Arduino interfacing | Sensors.. (s. f.). © 2018 ElectronicWings. https://www.electronicwings.com/sensors-modules/analog-joystick
 
 **Objetivo:**
 
