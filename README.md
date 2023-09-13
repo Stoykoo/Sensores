@@ -1,12 +1,12 @@
-# <p align="center">Sensonres.</p>
-# <p align="center">Analog Joystick </p>
+# Sensonres.
+# Analog Joystick
 ![](https://www.electronicwings.com/storage/PlatformSection/TopicContent/123/icon/Analog%20Joystick(0).jpg)
-**<p align="center">Objetivo:** </p>
+**Objetivo:**
 <div align="justify">
 Un joystick analógico es un dispositivo de entrada que se utiliza comúnmente en controladores de videojuegos y otras aplicaciones para permitir el control de movimiento en dos direcciones, a menudo en un plano bidimensional. A diferencia de los joysticks digitales, que solo pueden registrar direcciones cardinales (arriba, abajo, izquierda, derecha), los joysticks analógicos pueden detectar y transmitir una amplia gama de valores, lo que permite un control más preciso.
 </div></p>
-
-**<p align="center">Marco Teórico:** </p>
+<p align="center">
+**Marco Teórico:**
 <div align="justify">
 Un joystick analógico es un dispositivo de entrada que se utiliza para controlar el movimiento en dos dimensiones, generalmente en un plano horizontal y vertical. A diferencia de los joysticks digitales que solo pueden registrar direcciones cardinales (arriba, abajo, izquierda, derecha), los joysticks analógicos son capaces de detectar y transmitir una amplia gama de valores, lo que permite un control preciso y continuo. Estos dispositivos se utilizan en una variedad de aplicaciones, desde controladores de videojuegos hasta dispositivos de control en la industria aeroespacial y la robótica.
 
