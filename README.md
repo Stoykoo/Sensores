@@ -79,6 +79,30 @@ Fabricante: TechWave Corporation.
 
 Garantía: 1 año de garantía limitada.
 
+**Aplicaciones:**
+<div align="justify">
+Videojuegos: Los joysticks analógicos se utilizan en controladores de videojuegos, como los controladores de consola y los joysticks de vuelo, para permitir a los jugadores controlar personajes, vehículos y aeronaves con precisión.
+
+Simuladores de vuelo: En la aviación y la simulación de vuelo, los joysticks analógicos se utilizan para controlar la dirección y la inclinación de las aeronaves en simuladores de vuelo realistas.
+
+Control industrial: En entornos industriales, los joysticks analógicos se utilizan para controlar maquinaria pesada, grúas, manipuladores y otros equipos que requieren movimientos precisos y graduales.
+
+Equipos médicos: Los joysticks analógicos se emplean en dispositivos médicos como máquinas de resonancia magnética, equipos de radioterapia y sistemas de cirugía asistida por ordenador para permitir a los profesionales de la salud realizar movimientos precisos y controlados.
+
+Robótica: Los joysticks se utilizan en el control de robots y brazos robóticos en aplicaciones de investigación, ensamblaje de piezas y cirugía robótica.
+
+Control de cámaras: En la industria cinematográfica y de la radiodifusión, los joysticks se emplean para controlar cámaras, grúas y sistemas de movimiento de cámara para lograr tomas suaves y precisas.
+
+Navegación en aplicaciones espaciales: En las misiones espaciales y la exploración espacial, los joysticks se utilizan para controlar la orientación y la dirección de las naves espaciales y los rovers en superficies planetarias.
+
+Control de vehículos militares: Los joysticks analógicos se usan en vehículos militares, como tanques y vehículos de combate, para permitir a los operadores apuntar y mover armas con precisión.
+
+Juegos de simulación y entrenamiento: Los joysticks se utilizan en juegos de simulación y aplicaciones de entrenamiento, como simuladores de carreras, simuladores de agricultura y simuladores de construcción, para proporcionar una experiencia realista y control preciso.
+
+Aplicaciones de accesibilidad: Los joysticks analógicos se utilizan en dispositivos de asistencia para personas con discapacidades, permitiéndoles controlar computadoras, sillas de ruedas eléctricas u otros dispositivos con movimientos precisos.
+
+</div><br>
+
 **Referencias:**
 
 - Glosario informático - Definición de términos informáticos. (s. f.). https://www.glosarioit.com/Joystick_anal%C3%B3gico
