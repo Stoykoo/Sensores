@@ -25,6 +25,7 @@ Además del ámbito del entretenimiento, los joysticks analógicos se utilizan e
 
 **Ventajas de los joysticks analógicos:**
 <div align="justify">
+ 
 - Control preciso: Una de las principales ventajas de los joysticks analógicos es su capacidad para proporcionar un control preciso sobre la velocidad y la dirección. Esto es particularmente útil en juegos y aplicaciones que requieren movimientos suaves y graduales.<br><br>
 
 - Variedad de aplicaciones: Los joysticks analógicos se utilizan en una amplia gama de dispositivos y aplicaciones, desde controladores de videojuegos hasta equipos médicos y aviones. Su versatilidad los hace útiles en muchas situaciones.<br><br>
