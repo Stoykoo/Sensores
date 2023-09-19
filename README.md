@@ -21,7 +21,7 @@ Sensación táctil: La mayoría de los joysticks analógicos tienen una sensaci�
 Compatibilidad: Los joysticks analógicos suelen ser compatibles con una variedad de plataformas y sistemas operativos, lo que facilita su uso en diferentes dispositivos y aplicaciones.
 </div>
 
-**VDesventajas de los joysticks analógicos:**
+**Desventajas de los joysticks analógicos:**
 <div align="justify">
 Limitaciones en la entrada digital: Aunque son excelentes para la entrada analógica, los joysticks a menudo carecen de la precisión necesaria para la entrada digital precisa, como la pulsación de botones específicos. Esto puede ser un problema en juegos que requieren una combinación de movimientos analógicos y digitales.
 
