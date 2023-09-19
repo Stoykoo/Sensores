@@ -10,6 +10,28 @@ Imagen tomada de: Analog Joystick guide with Pinout & Arduino interfacing | Sens
 Un joystick analógico es un dispositivo que permite leer datos analógicos desde un joystick. El análogo es mejor que el digital porque devuelve con precisión la distancia que ha movido el asa del joystick desde la posición central, mientras que el digital solo devuelve True o False para una dirección en particular.
 </div>
 
+**Ventajas de los joysticks analógicos:**
+<div align="justify">
+Control preciso: Una de las principales ventajas de los joysticks analógicos es su capacidad para proporcionar un control preciso sobre la velocidad y la dirección. Esto es particularmente útil en juegos y aplicaciones que requieren movimientos suaves y graduales.
+
+Variedad de aplicaciones: Los joysticks analógicos se utilizan en una amplia gama de dispositivos y aplicaciones, desde controladores de videojuegos hasta equipos médicos y aviones. Su versatilidad los hace útiles en muchas situaciones.
+
+Sensación táctil: La mayoría de los joysticks analógicos tienen una sensación táctil que proporciona retroalimentación al usuario. Esto puede mejorar la experiencia de control y la inmersión en juegos y simulaciones.
+
+Compatibilidad: Los joysticks analógicos suelen ser compatibles con una variedad de plataformas y sistemas operativos, lo que facilita su uso en diferentes dispositivos y aplicaciones.
+</div>
+
+**VDesventajas de los joysticks analógicos:**
+<div align="justify">
+Limitaciones en la entrada digital: Aunque son excelentes para la entrada analógica, los joysticks a menudo carecen de la precisión necesaria para la entrada digital precisa, como la pulsación de botones específicos. Esto puede ser un problema en juegos que requieren una combinación de movimientos analógicos y digitales.
+
+Espacio y portabilidad: Los joysticks analógicos suelen ser dispositivos físicos relativamente grandes y pueden no ser tan portátiles como otros métodos de entrada, como los controladores de juegos más pequeños o los dispositivos táctiles en dispositivos móviles.
+
+Costo: Algunos joysticks analógicos de alta calidad pueden ser costosos, lo que puede ser una barrera para algunos consumidores.
+
+Curva de aprendizaje: Para algunos usuarios, especialmente aquellos que no están familiarizados con los joysticks, puede haber una curva de aprendizaje antes de poder utilizarlos eficazmente.
+</div>
+
 **Marco Teórico:**
  
 <div align="justify">
