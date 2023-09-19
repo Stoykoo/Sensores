@@ -8,7 +8,7 @@ Imagen tomada de: Analog Joystick guide with Pinout & Arduino interfacing | Sens
 
 <div align="justify">
 Un joystick analógico es un dispositivo que permite leer datos analógicos desde un joystick. El análogo es mejor que el digital porque devuelve con precisión la distancia que ha movido el asa del joystick desde la posición central, mientras que el digital solo devuelve True o False para una dirección en particular.
-</div>
+</div><br>
 
 **Ventajas de los joysticks analógicos:**
 <div align="justify">
@@ -19,7 +19,7 @@ Variedad de aplicaciones: Los joysticks analógicos se utilizan en una amplia ga
 Sensación táctil: La mayoría de los joysticks analógicos tienen una sensación táctil que proporciona retroalimentación al usuario. Esto puede mejorar la experiencia de control y la inmersión en juegos y simulaciones.
 
 Compatibilidad: Los joysticks analógicos suelen ser compatibles con una variedad de plataformas y sistemas operativos, lo que facilita su uso en diferentes dispositivos y aplicaciones.
-</div>
+</div><br>
 
 **Desventajas de los joysticks analógicos:**
 <div align="justify">
@@ -30,7 +30,7 @@ Espacio y portabilidad: Los joysticks analógicos suelen ser dispositivos físic
 Costo: Algunos joysticks analógicos de alta calidad pueden ser costosos, lo que puede ser una barrera para algunos consumidores.
 
 Curva de aprendizaje: Para algunos usuarios, especialmente aquellos que no están familiarizados con los joysticks, puede haber una curva de aprendizaje antes de poder utilizarlos eficazmente.
-</div>
+</div><br>
 
 **Marco Teórico:**
  
@@ -43,7 +43,7 @@ En la industria de los videojuegos, los joysticks analógicos se han convertido 
 
 Además del ámbito del entretenimiento, los joysticks analógicos se utilizan en aplicaciones más técnicas, como la navegación de aeronaves, la operación de maquinaria pesada y la simulación de entrenamiento para pilotos y operadores de equipos especializados. En estos casos, la precisión y la confiabilidad del joystick son críticas para garantizar la seguridad y la eficiencia de las operaciones.
 
-</div>
+</div><br>
 
 **Ficha Técnica - Joystick Analógico "PrecisionX1":**
 
