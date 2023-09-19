@@ -4,7 +4,7 @@
 ![](https://www.electronicwings.com/storage/PlatformSection/TopicContent/123/icon/Analog%20Joystick(0).jpg)
 Imagen tomada de: Analog Joystick guide with Pinout & Arduino interfacing | Sensors.. (s. f.). © 2018 ElectronicWings. https://www.electronicwings.com/sensors-modules/analog-joystick
 
-**Objetivo:**
+**¿Qué es un joystick analógico?**
 
 <div align="justify">
 Un joystick analógico es un dispositivo que permite leer datos analógicos desde un joystick. El análogo es mejor que el digital porque devuelve con precisión la distancia que ha movido el asa del joystick desde la posición central, mientras que el digital solo devuelve True o False para una dirección en particular.
